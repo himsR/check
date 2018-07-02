@@ -1,5 +1,5 @@
-<p align="left">
-<a href="https://layer6.ai/"><img src="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180" height="150"></a>
+<p align="center">
+<a href="https://layer6.ai/"><img src="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180" height="150" &nbsp></a>
 <a href="https://vectorinstitute.ai/"><img src="https://github.com/himsR/check/blob/master/logos/vector.jpg" width="180" height="150" &nbsp></a>
 </p>
 
