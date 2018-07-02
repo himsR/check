@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://layer6.ai/"><img src="https://github.com/himsR/check/blob/logos/vector.jpg" width="180"></a>
+<a href="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180"></a>
 </p>
 
 
