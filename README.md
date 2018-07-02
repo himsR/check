@@ -1,7 +1,6 @@
 <p align="center">
-<a href="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180"></a>
+<a href="https://layer6.ai/"><img src="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180"></a>
 </p>
-
 
 # ACM RecSys Challenge 2018 Team vl6
 
