@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://layer6.ai/"><img src="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180" height="150" &nbsp></a>
-<a href="https://vectorinstitute.ai/"><img src="https://github.com/himsR/check/blob/master/logos/vector.jpg" width="180" height="150" &nbsp></a>
+<a href="https://layer6.ai/"><img src="https://github.com/himsR/check/blob/master/logos/layer6ai-logo.png" width="180" height="150"></a>
+<a align="right" href="https://vectorinstitute.ai/"><img src="https://github.com/himsR/check/blob/master/logos/vector.jpg" width="180" height="150"></a>
 </p>
 
 # ACM RecSys Challenge 2018 Team vl6
